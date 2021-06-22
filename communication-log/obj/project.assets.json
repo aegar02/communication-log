@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "/Users/guigui/.nuget/packages/": {}
+    "/Users/aaron/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/guigui/Desktop/communication-log/communication-log/communication-log/communication-log.csproj",
+      "projectUniqueName": "/Users/aaron/Desktop/communication-log/communication-log/communication-log/communication-log.csproj",
       "projectName": "communication-log",
-      "projectPath": "/Users/guigui/Desktop/communication-log/communication-log/communication-log/communication-log.csproj",
-      "packagesPath": "/Users/guigui/.nuget/packages/",
-      "outputPath": "/Users/guigui/Desktop/communication-log/communication-log/communication-log/obj/",
+      "projectPath": "/Users/aaron/Desktop/communication-log/communication-log/communication-log/communication-log.csproj",
+      "packagesPath": "/Users/aaron/.nuget/packages/",
+      "outputPath": "/Users/aaron/Desktop/communication-log/communication-log/communication-log/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/guigui/.config/NuGet/NuGet.Config"
+        "/Users/aaron/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
