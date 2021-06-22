@@ -6,12 +6,12 @@ namespace communication_log
     {
         static void Main(string[] args)
         {
-            Console.BackgroundColor = ConsoleColor.DarkGreen;
+            Console.BackgroundColor = ConsoleColor.DarkRed;
             Console.WriteLine("Hello Major Tom!");
             Console.WriteLine("Hello Mission Control!");
             Console.WriteLine("Copy and received, Pilot!");
             Console.WriteLine("This is Major Tom to ground control, I'm stepping through the door.");
-            Console.WriteLine("Now we're rolling!");
+            Console.WriteLine("Major, weather sure is sunny today!");
             Console.WriteLine("Why did the chicken cross the road??");
         }
     }
