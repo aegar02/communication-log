@@ -1,0 +1,12 @@
+/Users/aaron/Desktop/communication-log/communication-log/communication-log/bin/Debug/netcoreapp3.1/communication-log.deps.json
+/Users/aaron/Desktop/communication-log/communication-log/communication-log/bin/Debug/netcoreapp3.1/communication-log.runtimeconfig.json
+/Users/aaron/Desktop/communication-log/communication-log/communication-log/bin/Debug/netcoreapp3.1/communication-log.runtimeconfig.dev.json
+/Users/aaron/Desktop/communication-log/communication-log/communication-log/bin/Debug/netcoreapp3.1/communication-log.dll
+/Users/aaron/Desktop/communication-log/communication-log/communication-log/bin/Debug/netcoreapp3.1/communication-log.pdb
+/Users/aaron/Desktop/communication-log/communication-log/communication-log/obj/Debug/netcoreapp3.1/communication-log.csproj.AssemblyReference.cache
+/Users/aaron/Desktop/communication-log/communication-log/communication-log/obj/Debug/netcoreapp3.1/communication-log.AssemblyInfoInputs.cache
+/Users/aaron/Desktop/communication-log/communication-log/communication-log/obj/Debug/netcoreapp3.1/communication-log.AssemblyInfo.cs
+/Users/aaron/Desktop/communication-log/communication-log/communication-log/obj/Debug/netcoreapp3.1/communication-log.csproj.CoreCompileInputs.cache
+/Users/aaron/Desktop/communication-log/communication-log/communication-log/obj/Debug/netcoreapp3.1/communication-log.dll
+/Users/aaron/Desktop/communication-log/communication-log/communication-log/obj/Debug/netcoreapp3.1/communication-log.pdb
+/Users/aaron/Desktop/communication-log/communication-log/communication-log/obj/Debug/netcoreapp3.1/communication-log.genruntimeconfig.cache
