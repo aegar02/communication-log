@@ -8,6 +8,7 @@ namespace communication_log
         {
             Console.WriteLine("Hello pilot!");
             Console.WriteLine("Hello Mission Control!");
+            Console.WriteLine("Copy and received, Pilot!");
         }
     }
 }
